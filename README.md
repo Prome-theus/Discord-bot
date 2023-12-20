@@ -1,6 +1,6 @@
 # Discord Welcome Bot in Python
 
-![Kooha-2023-12-20-20-52-53](https://github.com/Prome-theus/Discord-bot/assets/80052733/7bd6e00a-e476-44ce-84a8-73e45b9ec415)
+![Kooha-2023-12-20-20-52-53](https://github.com/Prome-theus/Discord-bot/assets/80052733/7bd6e00a-e476-44ce-84a8-73e45b9ec415){align:center}
 
 
 Welcome to the Discord Welcome Bot repository! This Python bot is designed to enhance your Discord server by providing a warm welcome to new members. The bot sends a personalized welcome message to users as they join your server, creating a friendly and inviting atmosphere.
