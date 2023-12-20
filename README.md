@@ -53,5 +53,5 @@ Customize the bot's behavior by modifying the options in the `config.json` file.
   "enable_private_message": true
 }
 ```
-
+join our discord engineer community : [</Hello world>](https://discord.gg/cg6YfCtpYQ)
 ---
