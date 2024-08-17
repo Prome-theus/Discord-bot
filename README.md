@@ -6,6 +6,14 @@
 
 
 
+If you like my work, consider buying me a coffee! ☕️
+<div align="center">
+<a href="https://www.buymeacoffee.com/bogusdeck" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150" />
+</a>
+</div>
+
+
 ---
 ---
 Welcome to the Discord Welcome Bot repository! This Python bot is designed to enhance your Discord server by providing a warm welcome to new members. The bot sends a personalized welcome message to users as they join your server, creating a friendly and inviting atmosphere.
